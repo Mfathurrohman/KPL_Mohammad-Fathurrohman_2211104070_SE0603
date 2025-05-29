@@ -12,6 +12,7 @@ const State = {
     EXIT: 'EXIT'  
 };  
 
+// 
 let state = State.START;  
 const screenNames = {  
     [State.START]: 'START',  
