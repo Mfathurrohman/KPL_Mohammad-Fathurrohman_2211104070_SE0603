@@ -31,7 +31,7 @@ class SayaTubeVideo {
         console.log(`Jumlah Tayang: ${this.playCount}`);
     }
 }
-
+// 
 // Contoh penggunaan
 try {
     let video = new SayaTubeVideo("Tutorial Design By Contract – Fathur");
