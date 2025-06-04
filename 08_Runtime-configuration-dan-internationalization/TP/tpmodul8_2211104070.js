@@ -2,6 +2,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
+
 // Class CovidConfig
 class CovidConfig {
     constructor() {

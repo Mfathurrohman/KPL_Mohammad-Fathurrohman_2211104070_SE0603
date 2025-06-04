@@ -6,6 +6,7 @@ const Backend = require('i18next-fs-backend');
 const app = express();
 
 
+
 // Inisialisasi i18next untuk internationalization
 i18next.use(Backend).init({
   lng: process.env.DEFAULT_LANGUAGE || 'en', // Bahasa default dari .env

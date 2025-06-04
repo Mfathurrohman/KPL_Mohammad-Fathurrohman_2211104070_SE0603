@@ -6,6 +6,7 @@ class BankTransferConfig {
         this.config = this.loadOrDefault();
     }
 
+    
     loadOrDefault() {
         if (fs.existsSync(this.filename)) {
             const data = fs.readFileSync(this.filename);

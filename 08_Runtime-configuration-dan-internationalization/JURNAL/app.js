@@ -6,6 +6,7 @@ function question(prompt) {
     return new Promise(resolve => rl.question(prompt, resolve));
 }
 
+
 async function main() {
     const config = new BankTransferConfig().config;
     const language = config.lang;
