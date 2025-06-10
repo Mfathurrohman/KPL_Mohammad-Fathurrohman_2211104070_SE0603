@@ -1,5 +1,5 @@
 const readline = require('readline');
-const BankTransferConfig = require('./BankTransferConfig');
+const BankTransferConfig = require('./bankTransferConfig');
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 function question(prompt) {

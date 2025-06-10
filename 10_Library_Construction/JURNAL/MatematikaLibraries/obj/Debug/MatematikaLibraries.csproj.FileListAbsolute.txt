@@ -1,0 +1,12 @@
+D:\modul10_2211104070\MatematikaLibraries\bin\Debug\MatematikaLibraries.dll
+D:\modul10_2211104070\MatematikaLibraries\bin\Debug\MatematikaLibraries.pdb
+D:\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.AssemblyReference.cache
+D:\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.CoreCompileInputs.cache
+D:\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.dll
+D:\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.pdb
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\bin\Debug\MatematikaLibraries.dll
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\bin\Debug\MatematikaLibraries.pdb
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.AssemblyReference.cache
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.CoreCompileInputs.cache
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.dll
+D:\KPL_Mohammad Fathurrohman_2211104070_SE0603\modul10_2211104070\MatematikaLibraries\obj\Debug\MatematikaLibraries.pdb
