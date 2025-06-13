@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\modul9_2211104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|d:\\modul9_2211104070\\modul9_2211104070\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|solutionrelative:modul9_2211104070\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|d:\\modul9_2211104070\\modul9_2211104070\\models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|solutionrelative:modul9_2211104070\\models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|d:\\modul9_2211104070\\modul9_2211104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|solutionrelative:modul9_2211104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|d:\\modul9_2211104070\\modul9_2211104070\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|solutionrelative:modul9_2211104070\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|d:\\modul9_2211104070\\modul9_2211104070\\modul9_2211104070.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68EBE0BE-E620-4062-9D6D-F8A499F086B7}|modul9_2211104070\\modul9_2211104070.csproj|solutionrelative:modul9_2211104070\\modul9_2211104070.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "D:\\modul9_2211104070\\modul9_2211104070\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "modul9_2211104070\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "D:\\modul9_2211104070\\modul9_2211104070\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "modul9_2211104070\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:30:21.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\modul9_2211104070\\modul9_2211104070\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "modul9_2211104070\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\modul9_2211104070\\modul9_2211104070\\Controllers\\MoviesController.cs*",
+              "RelativeToolTip": "modul9_2211104070\\Controllers\\MoviesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:50:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\modul9_2211104070\\modul9_2211104070\\Models\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "modul9_2211104070\\Models\\Mahasiswa.cs",
+              "ToolTip": "D:\\modul9_2211104070\\modul9_2211104070\\Models\\Mahasiswa.cs",
+              "RelativeToolTip": "modul9_2211104070\\Models\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:38:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "modul9_2211104070.csproj",
+              "DocumentMoniker": "D:\\modul9_2211104070\\modul9_2211104070\\modul9_2211104070.csproj",
+              "RelativeDocumentMoniker": "modul9_2211104070\\modul9_2211104070.csproj",
+              "ToolTip": "D:\\modul9_2211104070\\modul9_2211104070\\modul9_2211104070.csproj",
+              "RelativeToolTip": "modul9_2211104070\\modul9_2211104070.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T19:36:03.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\modul9_2211104070\\modul9_2211104070\\Program.cs",
+              "RelativeDocumentMoniker": "modul9_2211104070\\Program.cs",
+              "ToolTip": "D:\\modul9_2211104070\\modul9_2211104070\\Program.cs",
+              "RelativeToolTip": "modul9_2211104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:19:54.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
