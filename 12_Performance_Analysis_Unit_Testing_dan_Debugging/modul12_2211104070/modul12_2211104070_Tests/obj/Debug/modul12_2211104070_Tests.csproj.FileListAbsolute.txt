@@ -1,0 +1,2 @@
+D:\modul12_2211104070\modul12_2211104070_Tests\obj\Debug\modul12_2211104070_Tests.csproj.AssemblyReference.cache
+D:\modul12_2211104070\modul12_2211104070_Tests\obj\Debug\modul12_2211104070_Tests.csproj.CoreCompileInputs.cache

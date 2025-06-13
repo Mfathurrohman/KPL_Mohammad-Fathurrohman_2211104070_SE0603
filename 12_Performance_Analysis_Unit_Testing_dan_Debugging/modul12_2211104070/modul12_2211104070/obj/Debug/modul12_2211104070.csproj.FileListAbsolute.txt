@@ -1,0 +1,4 @@
+D:\modul12_2211104070\modul12_2211104070\obj\Debug\modul12_2211104070.csproj.AssemblyReference.cache
+D:\modul12_2211104070\modul12_2211104070\obj\Debug\modul12_2211104070.Properties.Resources.resources
+D:\modul12_2211104070\modul12_2211104070\obj\Debug\modul12_2211104070.csproj.GenerateResource.cache
+D:\modul12_2211104070\modul12_2211104070\obj\Debug\modul12_2211104070.csproj.CoreCompileInputs.cache
